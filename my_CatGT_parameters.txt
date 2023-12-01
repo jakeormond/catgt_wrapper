@@ -1,0 +1,53 @@
+CatGT parameters
+
+
+:: run on single session first, before concatenating
+
+set LOCALARGS= -t=cat -ap -prb=0 ^
+-dir=D:/rawData -run=Rat64_08-11-2023-14h39 -g=0 -t=0 -prb_fld -t_miss_ok ^
+-apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/CatGT_output
+
+:: or from cmdline:
+CatGT -dir=D:/rawData -run=Rat64_08-11-2023-14h39 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/CatGT_output
+
+
+:: OR
+:: concatenate multiple sessions
+set LOCALARGS= -t=cat -no_run_fld -ap -prb=0 ^
+-supercat={D:/CatGT_output,catgt_Rat64_08-11-2023-14h39_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-14h58_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-15h03_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-15h42_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-16h01_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-16h19_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-16h22_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-16h31_g0} ^
+-xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/supercat
+
+
+
+
+
+
+
+set LOCALARGS= -t=cat -no_run_fld -ap -prb=0 ^
+-supercat={D:/CatGT_output,catgt_Rat1119349_05_05_2023_session1_g4}{D:/CatGT_output,catgt_Rat1119349_05_05_2023_session2_g4} ^
+-xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/supercat
+
+
+another example (rat 64)
+
+set LOCALARGS= -t=cat -no_run_fld -ap -prb=0 ^
+-supercat={D:/CatGT_output,catgt_Rat64_08-11-2023-14h39_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-14h58_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-15h03_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-15h42_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-16h01_g0}{D:/CatGT_output,catgt_Rat64_08-11-2023-16h19_g0}^
+{D:/CatGT_output,catgt_Rat64_08-11-2023-16h31_g0} ^
+-xd=2,0,-1,6,0 -dest=D:/supercat
+
+
+set LOCALARGS= -t=cat -no_run_fld -ap -prb=0 ^
+-supercat={D:/CatGT_output,catgt_Rat65_10-11-2023-10h40_g0}{D:/CatGT_output,catgt_Rat65_10-11-2023-13h29_g0} ^
+-xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/supercat
+
+
+
+:: run on single session
+set LOCALARGS= -t=cat -no_run_fld -ap -prb=0 ^
+-dir=D:/rawData/rat1119349_05-05-2023 -run=rat1119349_05_05_2023_session2 -g=4 -t=0 -prb_fld -t_miss_ok -ap -prb=0 ^
+-apfilter=butter,12,300,9000 -gblcar -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -pass1_force_ni_ob_bin -dest=D:/CatGT_output
