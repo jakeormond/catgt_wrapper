@@ -1,0 +1,30 @@
+[Thd 15324 CPU 4 12/12/23 15:49:12.096] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-14h39 -g=0 -t=0 -prb_fld -t_miss_ok -ni -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 15324 CPU 4 12/12/23 15:49:12.096] Meta file not found 'D:/rawData/Rat64-08-11-2023/Rat64_08-11-2023-14h39_g0/Rat64_08-11-2023-14h39_g0_t0.nidq.meta'.
+[Thd 15324 CPU 4 12/12/23 15:49:12.096] 
+[Thd 5728 CPU 6 12/12/23 15:49:48.544] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-14h58 -g=0 -t=0 -prb_fld -t_miss_ok -ni -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 5728 CPU 2 12/12/23 15:49:48.544] Meta file not found 'D:/rawData/Rat64-08-11-2023/Rat64_08-11-2023-14h58_g0/Rat64_08-11-2023-14h58_g0_t0.nidq.meta'.
+[Thd 5728 CPU 2 12/12/23 15:49:48.544] 
+[Thd 17400 CPU 2 12/12/23 15:56:47.952] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-14h39 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17400 CPU 2 12/12/23 16:03:18.489] Run Rat64_08-11-2023-14h39_g0 Gfix prb 0 edits/sec 0
+[Thd 17400 CPU 2 12/12/23 16:03:18.523] 
+[Thd 22648 CPU 4 12/12/23 16:03:18.655] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-14h58 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22648 CPU 2 12/12/23 16:03:42.934] Run Rat64_08-11-2023-14h58_g0 Gfix prb 0 edits/sec 0
+[Thd 22648 CPU 0 12/12/23 16:03:42.964] 
+[Thd 23176 CPU 2 12/12/23 16:03:43.065] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-15h03 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23176 CPU 6 12/12/23 16:20:07.749] Run Rat64_08-11-2023-15h03_g0 Gfix prb 0 edits/sec 0
+[Thd 23176 CPU 6 12/12/23 16:20:07.765] 
+[Thd 9044 CPU 2 12/12/23 16:20:07.858] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-15h42 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 9044 CPU 2 12/12/23 16:28:40.873] Run Rat64_08-11-2023-15h42_g0 Gfix prb 0 edits/sec 0
+[Thd 9044 CPU 2 12/12/23 16:28:40.889] 
+[Thd 5308 CPU 0 12/12/23 16:28:40.983] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-16h01 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 5308 CPU 2 12/12/23 16:37:17.637] Run Rat64_08-11-2023-16h01_g0 Gfix prb 0 edits/sec 0.0103
+[Thd 5308 CPU 2 12/12/23 16:37:17.655] 
+[Thd 6532 CPU 3 12/12/23 16:37:17.920] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-16h19 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 6532 CPU 2 12/12/23 16:37:20.127] Run Rat64_08-11-2023-16h19_g0 Gfix prb 0 edits/sec 0
+[Thd 6532 CPU 2 12/12/23 16:37:20.135] 
+[Thd 9380 CPU 2 12/12/23 16:37:20.206] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-16h22 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 9380 CPU 2 12/12/23 16:40:59.273] Run Rat64_08-11-2023-16h22_g0 Gfix prb 0 edits/sec 0
+[Thd 9380 CPU 5 12/12/23 16:40:59.291] 
+[Thd 27432 CPU 6 12/12/23 16:40:59.372] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-16h31 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 27432 CPU 2 12/12/23 17:03:22.478] Run Rat64_08-11-2023-16h31_g0 Gfix prb 0 edits/sec 0.00118
+[Thd 27432 CPU 2 12/12/23 17:03:22.532] 
