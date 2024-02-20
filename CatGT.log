@@ -28,3 +28,261 @@
 [Thd 27432 CPU 6 12/12/23 16:40:59.372] Cmdline: CatGT -dir=D:/rawData/Rat64-08-11-2023 -run=Rat64_08-11-2023-16h31 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
 [Thd 27432 CPU 2 12/12/23 17:03:22.478] Run Rat64_08-11-2023-16h31_g0 Gfix prb 0 edits/sec 0.00118
 [Thd 27432 CPU 2 12/12/23 17:03:22.532] 
+[Thd 24300 CPU 6 2/18/24 15:01:02.877] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=2 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24300 CPU 6 2/18/24 15:04:13.691] Run Rat47_16-02-2024-15h14_g2 Gfix prb 0 edits/sec 0
+[Thd 24300 CPU 5 2/18/24 15:04:13.694] 
+[Thd 12736 CPU 5 2/18/24 15:04:13.744] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=3 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 12736 CPU 2 2/18/24 15:09:04.642] Run Rat47_16-02-2024-15h14_g3 Gfix prb 0 edits/sec 0
+[Thd 12736 CPU 1 2/18/24 15:09:04.657] 
+[Thd 21584 CPU 4 2/18/24 15:09:04.710] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=4 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21584 CPU 2 2/18/24 15:12:58.939] Run Rat47_16-02-2024-15h14_g4 Gfix prb 0 edits/sec 0
+[Thd 21584 CPU 5 2/18/24 15:12:58.949] 
+[Thd 21616 CPU 6 2/18/24 15:12:59.003] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=5 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21616 CPU 3 2/18/24 15:14:57.394] Run Rat47_16-02-2024-15h14_g5 Gfix prb 0 edits/sec 0
+[Thd 21616 CPU 3 2/18/24 15:14:57.404] 
+[Thd 17648 CPU 1 2/18/24 15:14:57.457] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=6 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17648 CPU 3 2/18/24 15:16:57.897] Run Rat47_16-02-2024-15h14_g6 Gfix prb 0 edits/sec 0
+[Thd 17648 CPU 1 2/18/24 15:16:57.997] 
+[Thd 6892 CPU 7 2/18/24 15:16:58.054] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=7 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 6892 CPU 2 2/18/24 15:18:48.862] Run Rat47_16-02-2024-15h14_g7 Gfix prb 0 edits/sec 0
+[Thd 6892 CPU 3 2/18/24 15:18:48.877] 
+[Thd 17092 CPU 2 2/18/24 15:18:48.933] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=8 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17092 CPU 6 2/18/24 15:23:55.453] Run Rat47_16-02-2024-15h14_g8 Gfix prb 0 edits/sec 0
+[Thd 17092 CPU 7 2/18/24 15:23:55.463] 
+[Thd 24428 CPU 3 2/18/24 15:23:55.518] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=11 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24428 CPU 4 2/18/24 15:26:06.985] Run Rat47_16-02-2024-15h14_g11 Gfix prb 0 edits/sec 0
+[Thd 24428 CPU 5 2/18/24 15:26:06.990] 
+[Thd 22492 CPU 6 2/18/24 15:26:07.047] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=12 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22492 CPU 2 2/18/24 15:31:30.106] Run Rat47_16-02-2024-15h14_g12 Gfix prb 0 edits/sec 0
+[Thd 22492 CPU 1 2/18/24 15:31:30.116] 
+[Thd 15224 CPU 2 2/18/24 15:31:30.171] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=13 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 15224 CPU 2 2/18/24 15:32:14.318] Run Rat47_16-02-2024-15h14_g13 Gfix prb 0 edits/sec 0
+[Thd 15224 CPU 2 2/18/24 15:32:14.328] 
+[Thd 20348 CPU 6 2/18/24 15:32:14.375] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=14 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20348 CPU 4 2/18/24 15:37:27.230] Run Rat47_16-02-2024-15h14_g14 Gfix prb 0 edits/sec 0
+[Thd 20348 CPU 2 2/18/24 15:37:27.234] 
+[Thd 22432 CPU 1 2/18/24 15:37:27.288] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=15 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22432 CPU 2 2/18/24 15:38:14.400] Run Rat47_16-02-2024-15h14_g15 Gfix prb 0 edits/sec 0
+[Thd 22432 CPU 7 2/18/24 15:38:14.405] 
+[Thd 16884 CPU 3 2/18/24 15:38:14.461] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=16 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 16884 CPU 6 2/18/24 15:43:03.542] Run Rat47_16-02-2024-15h14_g16 Gfix prb 0 edits/sec 0
+[Thd 16884 CPU 1 2/18/24 15:43:03.549] 
+[Thd 23900 CPU 2 2/18/24 15:43:03.601] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=17 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23900 CPU 5 2/18/24 15:46:49.570] Run Rat47_16-02-2024-15h14_g17 Gfix prb 0 edits/sec 0
+[Thd 23900 CPU 4 2/18/24 15:46:49.578] 
+[Thd 21296 CPU 4 2/18/24 15:46:49.751] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=18 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21296 CPU 4 2/18/24 15:51:06.718] Run Rat47_16-02-2024-15h14_g18 Gfix prb 0 edits/sec 0
+[Thd 21296 CPU 4 2/18/24 15:51:06.724] 
+[Thd 23948 CPU 3 2/18/24 15:51:06.781] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=19 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23948 CPU 5 2/18/24 15:56:09.898] Run Rat47_16-02-2024-15h14_g19 Gfix prb 0 edits/sec 0
+[Thd 23948 CPU 3 2/18/24 15:56:09.905] 
+[Thd 22516 CPU 3 2/18/24 15:56:09.971] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=21 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22516 CPU 5 2/18/24 16:00:17.366] Run Rat47_16-02-2024-15h14_g21 Gfix prb 0 edits/sec 0.00245
+[Thd 22516 CPU 5 2/18/24 16:00:17.371] 
+[Thd 20324 CPU 5 2/18/24 16:00:17.429] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=22 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20324 CPU 2 2/18/24 16:02:36.729] Run Rat47_16-02-2024-15h14_g22 Gfix prb 0 edits/sec 0
+[Thd 20324 CPU 6 2/18/24 16:02:36.741] 
+[Thd 9856 CPU 4 2/18/24 16:02:36.796] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=23 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 9856 CPU 5 2/18/24 16:05:39.949] Run Rat47_16-02-2024-15h14_g23 Gfix prb 0 edits/sec 0
+[Thd 9856 CPU 5 2/18/24 16:05:39.956] 
+[Thd 23088 CPU 3 2/18/24 16:05:40.012] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=24 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23088 CPU 0 2/18/24 16:09:18.422] Run Rat47_16-02-2024-15h14_g24 Gfix prb 0 edits/sec 0
+[Thd 23088 CPU 0 2/18/24 16:09:18.429] 
+[Thd 19744 CPU 4 2/18/24 16:09:18.479] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=25 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 19744 CPU 4 2/18/24 16:11:39.225] Run Rat47_16-02-2024-15h14_g25 Gfix prb 0 edits/sec 0
+[Thd 19744 CPU 3 2/18/24 16:11:39.231] 
+[Thd 20868 CPU 6 2/18/24 16:11:39.283] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=26 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20868 CPU 3 2/18/24 16:13:22.692] Run Rat47_16-02-2024-15h14_g26 Gfix prb 0 edits/sec 0
+[Thd 20868 CPU 1 2/18/24 16:13:22.700] 
+[Thd 22880 CPU 1 2/18/24 16:13:22.759] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=28 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22880 CPU 6 2/18/24 16:14:20.539] Run Rat47_16-02-2024-15h14_g28 Gfix prb 0 edits/sec 0
+[Thd 22880 CPU 3 2/18/24 16:14:20.547] 
+[Thd 19624 CPU 1 2/18/24 16:14:20.607] Cmdline: CatGT -dir=D:/rawData/Rat47 -run=Rat47_16-02-2024-15h14 -g=29 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 19624 CPU 4 2/18/24 16:16:09.851] Run Rat47_16-02-2024-15h14_g29 Gfix prb 0 edits/sec 0
+[Thd 19624 CPU 7 2/18/24 16:16:09.860] 
+[Thd 16336 CPU 0 2/18/24 16:16:54.413] Cmdline: CatGT -t=cat -no_run_fld -ap -prb=0 -xd=2,0,-1,6,0 -supercat={D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g2}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g3}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g4}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g5}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g6}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g7}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g8}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g11}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g12}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g13}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g14}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g15}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g16}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g17}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g18}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g19}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g21}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g22}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g23}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g24}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g25}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g26}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g28}{D:/CatGT_output,catgt_Rat47_16-02-2024-15h14_g29} -dest=D:/supercat
+[Thd 16336 CPU 4 2/18/24 16:32:09.851] 
+[Thd 17348 CPU 2 2/18/24 16:32:10.265] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=1 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17348 CPU 6 2/18/24 16:35:09.069] Run Rat46_17-02-2024-09h35_g1 Gfix prb 0 edits/sec 0
+[Thd 17348 CPU 3 2/18/24 16:35:09.076] 
+[Thd 20692 CPU 2 2/18/24 16:35:09.316] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=2 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20692 CPU 2 2/18/24 16:38:00.226] Run Rat46_17-02-2024-09h35_g2 Gfix prb 0 edits/sec 0
+[Thd 20692 CPU 2 2/18/24 16:38:00.233] 
+[Thd 22144 CPU 4 2/18/24 16:38:00.319] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=3 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22144 CPU 2 2/18/24 16:39:30.676] Run Rat46_17-02-2024-09h35_g3 Gfix prb 0 edits/sec 0
+[Thd 22144 CPU 3 2/18/24 16:39:30.683] 
+[Thd 22980 CPU 5 2/18/24 16:39:30.814] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=4 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 22980 CPU 2 2/18/24 16:42:30.123] Run Rat46_17-02-2024-09h35_g4 Gfix prb 0 edits/sec 0
+[Thd 22980 CPU 0 2/18/24 16:42:30.130] 
+[Thd 23384 CPU 2 2/18/24 16:42:30.272] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=5 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23384 CPU 4 2/18/24 16:48:00.178] Run Rat46_17-02-2024-09h35_g5 Gfix prb 0 edits/sec 0.00172
+[Thd 23384 CPU 0 2/18/24 16:48:00.191] 
+[Thd 17488 CPU 2 2/18/24 16:48:00.273] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=6 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17488 CPU 2 2/18/24 16:48:49.867] Run Rat46_17-02-2024-09h35_g6 Gfix prb 0 edits/sec 0
+[Thd 17488 CPU 2 2/18/24 16:48:49.873] 
+[Thd 7440 CPU 6 2/18/24 16:48:50.094] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=7 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 7440 CPU 0 2/18/24 16:55:19.929] Run Rat46_17-02-2024-09h35_g7 Gfix prb 0 edits/sec 0
+[Thd 7440 CPU 0 2/18/24 16:55:19.935] 
+[Thd 7276 CPU 1 2/18/24 16:55:20.085] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=8 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 7276 CPU 6 2/18/24 16:56:12.255] Run Rat46_17-02-2024-09h35_g8 Gfix prb 0 edits/sec 0
+[Thd 7276 CPU 6 2/18/24 16:56:12.261] 
+[Thd 8952 CPU 4 2/18/24 16:56:12.319] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=9 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 8952 CPU 2 2/18/24 16:58:45.984] Run Rat46_17-02-2024-09h35_g9 Gfix prb 0 edits/sec 0
+[Thd 8952 CPU 2 2/18/24 16:58:45.991] 
+[Thd 20096 CPU 2 2/18/24 16:58:46.092] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=10 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20096 CPU 2 2/18/24 17:04:40.031] Run Rat46_17-02-2024-09h35_g10 Gfix prb 0 edits/sec 0
+[Thd 20096 CPU 3 2/18/24 17:04:40.038] 
+[Thd 1936 CPU 2 2/18/24 17:04:40.134] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=12 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 1936 CPU 1 2/18/24 17:10:23.344] Run Rat46_17-02-2024-09h35_g12 Gfix prb 0 edits/sec 0
+[Thd 1936 CPU 1 2/18/24 17:10:23.351] 
+[Thd 20376 CPU 6 2/18/24 17:10:23.509] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=13 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20376 CPU 0 2/18/24 17:14:33.068] Run Rat46_17-02-2024-09h35_g13 Gfix prb 0 edits/sec 0
+[Thd 20376 CPU 3 2/18/24 17:14:33.074] 
+[Thd 17184 CPU 4 2/18/24 17:14:33.178] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=15 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17184 CPU 4 2/18/24 17:17:51.291] Run Rat46_17-02-2024-09h35_g15 Gfix prb 0 edits/sec 0
+[Thd 17184 CPU 2 2/18/24 17:17:51.304] 
+[Thd 18148 CPU 4 2/18/24 17:17:51.384] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=16 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 18148 CPU 5 2/18/24 17:21:47.390] Run Rat46_17-02-2024-09h35_g16 Gfix prb 0 edits/sec 0
+[Thd 18148 CPU 6 2/18/24 17:21:47.406] 
+[Thd 21748 CPU 2 2/18/24 17:21:47.496] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=19 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21748 CPU 1 2/18/24 17:24:11.378] Run Rat46_17-02-2024-09h35_g19 Gfix prb 0 edits/sec 0
+[Thd 21748 CPU 1 2/18/24 17:24:11.383] 
+[Thd 6944 CPU 0 2/19/24 12:50:58.892] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=20 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 6944 CPU 4 2/19/24 12:56:36.693] Run Rat46_17-02-2024-09h35_g20 Gfix prb 0 edits/sec 0
+[Thd 6944 CPU 3 2/19/24 12:56:36.701] 
+[Thd 25688 CPU 7 2/19/24 12:56:36.747] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=21 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 25688 CPU 0 2/19/24 13:00:07.858] Run Rat46_17-02-2024-09h35_g21 Gfix prb 0 edits/sec 0
+[Thd 25688 CPU 4 2/19/24 13:00:07.873] 
+[Thd 24316 CPU 2 2/19/24 13:00:07.949] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=22 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24316 CPU 2 2/19/24 13:06:18.822] Run Rat46_17-02-2024-09h35_g22 Gfix prb 0 edits/sec 0
+[Thd 24316 CPU 2 2/19/24 13:06:18.848] 
+[Thd 19332 CPU 4 2/19/24 13:06:19.116] Cmdline: CatGT -dir=D:/rawData/Rat46 -run=Rat46_17-02-2024-09h35 -g=24 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 19332 CPU 6 2/19/24 13:10:38.126] Run Rat46_17-02-2024-09h35_g24 Gfix prb 0 edits/sec 0
+[Thd 19332 CPU 2 2/19/24 13:10:38.156] 
+[Thd 18780 CPU 2 2/19/24 13:10:45.694] Cmdline: CatGT -t=cat -no_run_fld -ap -prb=0 -xd=2,0,-1,6,0 -supercat={D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g1}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g2}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g3}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g4}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g5}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g6}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g7}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g8}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g9}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g10}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g12}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g13}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g15}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g16}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g19}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g20}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g21}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g22}{D:/CatGT_output,catgt_Rat46_17-02-2024-09h35_g24} -dest=D:/supercat
+[Thd 18780 CPU 0 2/19/24 13:25:52.965] 
+[Thd 19640 CPU 2 2/20/24 15:06:00.275] Error: Missing -dir.
+[Thd 19640 CPU 3 2/20/24 15:06:00.300] 
+[Thd 19640 CPU 3 2/20/24 15:06:00.300] *** ERROR: MISSING CRITICAL PARAMETERS ***
+
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] ------------------------
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] Purpose:
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally join trials with given run_name and index ranges [ga,gb] [ta,tb]...
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + ...Or run on any individual file.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally apply demultiplexing corrections.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally apply band-pass and global CAR filters.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally edit out saturation artifacts.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally extract tables of sync waveform edge times to drive TPrime.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally extract tables of other nonneural event times to be aligned with spikes.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Optionally join the above outputs across different runs (supercat feature).
+
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] Output:
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Results are placed next to source, named like this, with t-index = tcat:
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] +    path/run_name_g5_tcat.imec1.ap.bin.
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] + Errors and run messages are appended to CatGT.log in the current working directory.
+
+[Thd 19640 CPU 2 2/20/24 15:06:00.315] Usage:
+[Thd 19640 CPU 0 2/20/24 15:06:00.333] >CatGT -dir=data_dir -run=run_name -g=ga,gb -t=ta,tb <which streams> [ options ]
+
+[Thd 19640 CPU 0 2/20/24 15:06:00.334] Which streams:
+[Thd 19640 CPU 0 2/20/24 15:06:00.334] -ni                      ;required to process ni stream
+[Thd 19640 CPU 0 2/20/24 15:06:00.334] -ob                      ;required to process ob streams
+[Thd 19640 CPU 1 2/20/24 15:06:00.334] -ap                      ;required to process ap streams
+[Thd 19640 CPU 1 2/20/24 15:06:00.334] -lf                      ;required to process lf streams
+[Thd 19640 CPU 1 2/20/24 15:06:00.334] -obx=0,3:5               ;if -ob process these OneBoxes
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -prb_3A                  ;if -ap or -lf process 3A-style probe files, e.g., run_name_g0_t0.imec.ap.bin
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -prb=0,3:5               ;if -ap or -lf AND !prb_3A process these probes
+
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] Options:
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -no_run_fld              ;older data, or data files relocated without a run folder
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -prb_fld                 ;use folder-per-probe organization
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -prb_miss_ok             ;instead of stopping, silently skip missing probes
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -gtlist={gj,tja,tjb}     ;override {-g,-t} giving each listed g-index its own t-range
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -t=cat                   ;extract events from CatGT output files (instead of -t=ta,tb)
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -exported                ;apply FileViewer 'exported' tag to in/output filenames
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -t_miss_ok               ;instead of stopping, zero-fill if trial missing
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -zerofillmax=500         ;set a maximum zero-fill span (millisec)
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -startsecs=120.0         ;skip this initial span of each input stream (float seconds)
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -maxsecs=7.5             ;set a maximum output file length (float seconds)
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -apfilter=Typ,N,Fhi,Flo  ;apply ap band-pass filter of given {type, order, corners(float Hz)}
+[Thd 19640 CPU 3 2/20/24 15:06:00.334] -lffilter=Typ,N,Fhi,Flo  ;apply lf band-pass filter of given {type, order, corners(float Hz)}
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -no_tshift               ;DO NOT time-align channels to account for ADC multiplexing
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -loccar_um=40,140        ;apply ap local CAR annulus (exclude radius, include radius)
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -loccar=2,8              ;apply ap local CAR annulus (exclude radius, include radius)
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -gblcar                  ;apply ap global CAR filter over all channels
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -gbldmx                  ;apply ap global demuxed CAR filter over channel groups
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -gfix=0.40,0.10,0.02     ;rmv ap artifacts: ||amp(mV)||, ||slope(mV/sample)||, ||noise(mV)||
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -chnexcl={prb;chans}     ;this probe, exclude listed chans from ap loccar, gblcar, gfix
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -xa=0,0,2,3.0,4.5,25     ;extract pulse signal from analog chan (js,ip,word,thresh1(V),thresh2(V),millisec)
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -xd=2,0,384,6,500        ;extract pulse signal from digital chan (js,ip,word,bit,millisec)
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -xia=0,0,2,3.0,4.5,2     ;inverted version of xa
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -xid=2,0,384,6,50        ;inverted version of xd
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -bf=0,0,8,2,4,3          ;extract numeric bit-field from digital chan (js,ip,word,startbit,nbits,inarow)
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -inarow=5                ;extractor {xa,xd,xia,xid} antibounce stay high/low sample count
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -no_auto_sync            ;disable the automatic extraction of sync edges in all streams
+[Thd 19640 CPU 3 2/20/24 15:06:00.350] -save=2,0,5,20:60        ;save subset of probe chans (js,ip1,ip2,chan-list)
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -pass1_force_ni_ob_bin   ;write pass one ni/ob binary tcat file even if not changed
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -supercat={dir,run_ga}   ;concatenate existing output files across runs (see ReadMe)
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -supercat_trim_edges     ;supercat after trimming each stream to matched sync edges
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -supercat_skip_ni_ob_bin ;do not supercat ni/ob binary files
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -dest=path               ;alternate path for output files (must exist)
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] -out_prb_fld             ;if using -dest, create output subfolder per probe
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] ------------------------
+
+[Thd 19640 CPU 4 2/20/24 15:06:00.350] 
+[Thd 15624 CPU 4 2/20/24 15:06:00.412] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_17-02-2024-09h35 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 15624 CPU 1 2/20/24 15:09:11.549] Run Rat46_17-02-2024-09h35_g0 Gfix prb 0 edits/sec 0
+[Thd 15624 CPU 1 2/20/24 15:09:11.554] 
+[Thd 25424 CPU 2 2/20/24 15:09:11.601] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 25424 CPU 2 2/20/24 15:11:26.686] Run Rat46_19-02-2024-14h22_g0 Gfix prb 0 edits/sec 0
+[Thd 25424 CPU 4 2/20/24 15:11:26.705] 
+[Thd 20192 CPU 2 2/20/24 15:11:26.844] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_17-02-2024-09h35 -g=1 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20192 CPU 2 2/20/24 15:14:16.077] Run Rat46_17-02-2024-09h35_g1 Gfix prb 0 edits/sec 0
+[Thd 20192 CPU 2 2/20/24 15:14:16.077] 
+[Thd 1852 CPU 6 2/20/24 15:14:16.232] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=1 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 1852 CPU 2 2/20/24 15:16:56.882] Run Rat46_19-02-2024-14h22_g1 Gfix prb 0 edits/sec 0
+[Thd 1852 CPU 0 2/20/24 15:16:56.990] 
+[Thd 23840 CPU 2 2/20/24 15:16:57.118] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_17-02-2024-09h35 -g=2 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21292 CPU 2 2/20/24 15:21:20.423] Cmdline: CatGT -dir=D:/rawData/Rat46/17-02-2024 -run=Rat46_17-02-2024-09h35 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 21292 CPU 1 2/20/24 15:24:19.429] Run Rat46_17-02-2024-09h35_g0 Gfix prb 0 edits/sec 0
+[Thd 21292 CPU 1 2/20/24 15:24:19.441] 
+[Thd 24200 CPU 4 2/20/24 15:27:59.746] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=0 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24200 CPU 7 2/20/24 15:29:58.850] Run Rat46_19-02-2024-14h22_g0 Gfix prb 0 edits/sec 0
+[Thd 24200 CPU 6 2/20/24 15:29:58.866] 
+[Thd 10152 CPU 2 2/20/24 15:29:58.973] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=1 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 10152 CPU 2 2/20/24 15:32:18.091] Run Rat46_19-02-2024-14h22_g1 Gfix prb 0 edits/sec 0
+[Thd 10152 CPU 6 2/20/24 15:32:18.106] 
+[Thd 23532 CPU 2 2/20/24 15:32:18.222] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=2 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 23532 CPU 2 2/20/24 15:35:23.528] Run Rat46_19-02-2024-14h22_g2 Gfix prb 0 edits/sec 0
+[Thd 23532 CPU 2 2/20/24 15:35:23.528] 
+[Thd 8572 CPU 2 2/20/24 15:35:23.635] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=3 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 8572 CPU 2 2/20/24 15:37:36.732] Run Rat46_19-02-2024-14h22_g3 Gfix prb 0 edits/sec 0
+[Thd 8572 CPU 3 2/20/24 15:37:36.754] 
+[Thd 24684 CPU 2 2/20/24 15:37:36.883] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=4 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24684 CPU 6 2/20/24 15:41:23.550] Run Rat46_19-02-2024-14h22_g4 Gfix prb 0 edits/sec 0
+[Thd 24684 CPU 2 2/20/24 15:41:23.572] 
+[Thd 17260 CPU 0 2/20/24 15:41:23.695] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=5 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 17260 CPU 2 2/20/24 15:43:09.450] Run Rat46_19-02-2024-14h22_g5 Gfix prb 0 edits/sec 0
+[Thd 17260 CPU 2 2/20/24 15:43:09.459] 
+[Thd 25832 CPU 4 2/20/24 15:43:09.569] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=6 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 25832 CPU 4 2/20/24 15:46:59.474] Run Rat46_19-02-2024-14h22_g6 Gfix prb 0 edits/sec 0
+[Thd 25832 CPU 4 2/20/24 15:46:59.484] 
+[Thd 18988 CPU 6 2/20/24 15:46:59.628] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=7 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 18988 CPU 2 2/20/24 15:51:07.079] Run Rat46_19-02-2024-14h22_g7 Gfix prb 0 edits/sec 0
+[Thd 18988 CPU 4 2/20/24 15:51:07.087] 
+[Thd 24688 CPU 2 2/20/24 15:51:07.414] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=8 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24688 CPU 2 2/20/24 15:52:01.148] Run Rat46_19-02-2024-14h22_g8 Gfix prb 0 edits/sec 0
+[Thd 24688 CPU 2 2/20/24 15:52:01.171] 
+[Thd 9220 CPU 5 2/20/24 15:52:01.314] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=9 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 9220 CPU 2 2/20/24 15:55:03.839] Run Rat46_19-02-2024-14h22_g9 Gfix prb 0 edits/sec 0
+[Thd 9220 CPU 2 2/20/24 15:55:03.950] 
+[Thd 24488 CPU 3 2/20/24 15:55:04.093] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=10 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 24488 CPU 2 2/20/24 15:58:56.279] Run Rat46_19-02-2024-14h22_g10 Gfix prb 0 edits/sec 0.00226
+[Thd 24488 CPU 2 2/20/24 15:58:56.279] 
+[Thd 11376 CPU 7 2/20/24 15:58:57.166] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=11 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 11376 CPU 2 2/20/24 16:02:34.196] Run Rat46_19-02-2024-14h22_g11 Gfix prb 0 edits/sec 0
+[Thd 11376 CPU 2 2/20/24 16:02:34.212] 
+[Thd 20812 CPU 2 2/20/24 16:24:35.906] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=12 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
+[Thd 20812 CPU 2 2/20/24 16:25:21.539] Run Rat46_19-02-2024-14h22_g12 Gfix prb 0 edits/sec 0
+[Thd 20812 CPU 2 2/20/24 16:25:21.555] 
+[Thd 9652 CPU 0 2/20/24 16:25:21.817] Cmdline: CatGT -dir=D:/rawData/Rat46/19-02-2024 -run=Rat46_19-02-2024-14h22 -g=13 -t=0 -prb_fld -t_miss_ok -ap -prb=0 -apfilter=butter,12,300,9000 -gbldmx -gfix=0.4,0.1,0.02 -xd=2,0,-1,6,0 -dest=D:/CatGT_output
