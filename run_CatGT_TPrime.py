@@ -75,11 +75,7 @@ def supercat(supercatcmd, runsupercat=True):
 
 
 if __name__ == "__main__":
-    
-    raw_data_path = 'D:/rawData/Rat46/19-02-2024'
-    supercatcmd = catgt(raw_data_path, runcatGT=True)
-    supercat(supercatcmd, runsupercat=True)
 
-    raw_data_path = 'D:/rawData/Rat46/17-02-2024'
-    supercatcmd = catgt(raw_data_path, runcatGT=False)
+    raw_data_path = 'D:/rawData/Rat46/20-02-2024'
+    supercatcmd = catgt(raw_data_path, runcatGT=True)
     supercat(supercatcmd, runsupercat=True)
